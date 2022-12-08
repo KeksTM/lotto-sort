@@ -1,0 +1,84 @@
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\App.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\bin\Debug\LottoStatistik.exe.config
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\bin\Debug\LottoStatistik.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\bin\Debug\LottoStatistik.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\MainWindow.baml
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.g.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.Properties.Resources.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.csproj.GenerateResource.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik\LottoStatistik\obj\Debug\LottoStatistik.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.exe.config
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.pdb
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csprojAssemblyReference.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\MainWindow.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\App.g.cs
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\MainWindow.baml
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.g.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.Properties.Resources.resources
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csproj.GenerateResource.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csproj.CoreCompileInputs.cache
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.exe
+C:\Users\ruediger.berg\OneDrive - it.schule stuttgart\__Pool\SAE\Basics\8 - Dateizugriff\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.pdb
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.exe.config
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.exe
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\bin\Debug\LottoStatistik.pdb
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\MainWindow.baml
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.g.resources
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.Properties.Resources.resources
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csproj.GenerateResource.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.csproj.CoreCompileInputs.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.exe
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_LSG\LottoStatistik\obj\Debug\LottoStatistik.pdb
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.AssemblyReference.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\MainWindow.g.cs
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\App.g.cs
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.exe
+C:\Users\Bx\Documents\_Pool\Softwareentwicklung\Basics\8 - Dateizugriff\#Übungen\LottoStatistik\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.pdb
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.exe.config
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.exe
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.pdb
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.AssemblyReference.cache
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.SuggestedBindingRedirects.cache
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\MainWindow.g.cs
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\App.g.cs
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\MainWindow.baml
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.g.resources
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.Properties.Resources.resources
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.GenerateResource.cache
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.CoreCompileInputs.cache
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.exe
+C:\Users\macheal\3D Objects\Schule Temp\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.pdb
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.exe.config
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.exe
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\bin\Debug\LottoStatistik.pdb
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.AssemblyReference.cache
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.SuggestedBindingRedirects.cache
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\MainWindow.g.cs
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\App.g.cs
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.cache
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik_MarkupCompile.lref
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\MainWindow.baml
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.g.resources
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.Properties.Resources.resources
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.GenerateResource.cache
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.csproj.CoreCompileInputs.cache
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.exe
+\\srvditz1\home$\macheal\Documents\Berufsschule\BfK - Software\LottoStatistik_VORLAGE\LottoStatistik\obj\Debug\LottoStatistik.pdb
